@@ -1,2 +1,4 @@
 # MSE-Project
-Repositorio correspondiente al proyecto final: Automated Irrigation System
+Integrantes del equipo:
+
+Sebastian Lizalde Herrera
